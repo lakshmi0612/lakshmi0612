@@ -1,8 +1,6 @@
-
 <p align="center">
-  🚀 I love solving AI challenges & building projects!  
+  I love learning new things and creating new projects... <3
+  And I love Snoopy!
   <br>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/6e/1e/75/6e1e75e0b8f7cfbdb7c1db5dc1f7021e.gif" width="300" />
 </p>
-
----
